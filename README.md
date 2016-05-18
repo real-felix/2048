@@ -1,7 +1,7 @@
 # 2048
 The 2048 game in your console, using ncurses !
 
-![alt tag](https://raw.githubusercontent.com/Boiethios/2048/master/.screenshot.png)
+![alt tag](https://cloud.githubusercontent.com/assets/18555389/15364480/07234aa0-1d1d-11e6-825d-1279876e652c.png)
 
 Various options can be changed in game :
 - the grid size
